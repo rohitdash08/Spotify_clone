@@ -29,9 +29,9 @@ git clone https://github.com/rohitdash08/Spotify_clone
 
 2. Navigate to the project directory.
 
-  cd spotify
+- cd spotify
 
 3. Install dependencies.
 
-  npm install
-  npm start
+- npm install
+- npm start
