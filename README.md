@@ -11,9 +11,13 @@ This project is a simple Spotify Player built with React. It allows users to log
 ## Technologies Used
 
 - React
+- React Context API
 - Spotify Web API
 - Material-UI
-- MUI Icons
+
+## Screenshots
+
+![Homepage](./Screenshots/image_1.png)
 
 ## How to Run
 
@@ -22,3 +26,12 @@ This project is a simple Spotify Player built with React. It allows users to log
 ```bash
 git clone https://github.com/your-username/react-spotify-player.git
 ```
+
+2. Navigate to the project directory.
+
+cd spotify
+
+3. Install dependencies.
+
+npm install
+npm start
